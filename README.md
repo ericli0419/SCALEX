@@ -1,7 +1,5 @@
-[![Stars](https://img.shields.io/github/stars/jsxlei/scalex?logo=GitHub&color=yellow)](https://github.com/jsxlei/scalex/stargazers)
-[![PyPI](https://img.shields.io/pypi/v/scalex.svg)](https://pypi.org/project/scalex)
+[![Stars](https://img.shields.io/github/stars/ericli0419/scalex?logo=GitHub&color=yellow)](https://github.com/ericli0419/scalex/stargazers)
 [![Documentation Status](https://readthedocs.org/projects/scalex/badge/?version=latest)](https://scalex.readthedocs.io/en/latest/?badge=stable)
-[![Downloads](https://pepy.tech/badge/scalex)](https://pepy.tech/project/scalex)
 # [Online single-cell data integration through projecting heterogeneous datasets into a common cell-embedding space](https://www.biorxiv.org/content/10.1101/2021.04.06.438536v1)
 
 ![](docs/source/_static/img/scalex.jpg)
