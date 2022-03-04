@@ -8,10 +8,6 @@
 ## [Documentation](https://scalex.readthedocs.io/en/latest/index.html) 
 
 ## Installation  	
-#### install from PyPI
-
-    pip install scalex
-
 #### install from GitHub
 
 	git clone git://github.com/ericli0419/SCALEX.git
